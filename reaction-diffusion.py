@@ -7,7 +7,7 @@ N = 200
 
 # Parameters (these control the pattern!)
 Du, Dv = 0.16, 0.08
-F, k = 0.035, 0.065
+F, k = 0.025, 0.055
 
 # Initialize chemicals
 U = np.ones((N, N))
